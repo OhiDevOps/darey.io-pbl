@@ -21,4 +21,19 @@ links to official sources, reflecting my ability to create secure, streamlined, 
 - **Computer**: Adequate performance to run virtual machines and containers (minimum 8GB RAM
 recommended), 64 bit Architecture is highly recommended.
 
+# Tools needed to be Installed
+
+1. Visual studio code (VScode)
+
+2. Git
+
+3. Virtual box
+
+4. Ubuntu on Virtual box (Wimdows)
+
+5. Ubuntu on Virtual box (intel chip macOS)
+
+# Accounts to be Created
+
+
 
