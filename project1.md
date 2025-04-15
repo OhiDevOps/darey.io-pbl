@@ -82,3 +82,14 @@ but does not matter.
 ![Image](https://github.com/user-attachments/assets/6fcc4454-0362-4f97-af4f-8dd1d0c3365e)
 
 ### 2. macOS Instalation:
+
+- **Download download vscode**: Go to [visual studio code](https://code.visualstudio.com/)
+
+- On the web page, click "Download" button on the top-right corner.
+
+![Image](https://github.com/user-attachments/assets/162ec908-bc44-4699-a5b5-296b6e361049)
+
+On the [download page](https://code.visualstudio.com/Download), since you are usign Apple laptop click Mac to download the installer zip file 
+
+![Image](https://github.com/user-attachments/assets/a8e5c769-51ac-4628-b833-58909123c17d)
+
