@@ -16,7 +16,7 @@ links to official sources, reflecting my ability to create secure, streamlined, 
 
 # Project Prerequisites
 
-- **Internet Connection** : Required for accessing cloud services, documentation, and online repositories
+- **Internet Connection**: Required for accessing cloud services, documentation, and online repositories
 
 - **Computer**: Adequate performance to run virtual machines and containers (minimum 8GB RAM
 recommended), 64 bit Architecture is highly recommended.
@@ -35,5 +35,35 @@ recommended), 64 bit Architecture is highly recommended.
 
 # Accounts to be Created
 
+1. Gtihub account
+
+2. Amazon Web Services  (AWS) Account.
 
 
+# Installing Softrware Tool 
+
+## Visual Studio Code (VScode)
+
+Visual Studio Code (VS Code) is a powerful, lightweight, and versatile code editor developed by Microsoft,
+
+designed for a wide range of programming languages and development tasks. Available across Windows,
+
+macOS, and Linux, it offers features like IntelliSense for smart code completion, integrated Git support for
+
+seamless version control, and an in-built terminal for command-line operations. Its vast extension marketplace
+
+allows users to customize the editor with additional tools, debuggers, and themes, making it adaptable to
+
+various development workflows. VS Code is widely praised for its speed, flexibility, and robust features,
+
+making it a top choice among developers.
+
+### 1. Windows Instalation : 
+
+- **Download download vscode**: Go to [visual studio code](https://code.visualstudio.com/)
+
+  ![Image](https://github.com/user-attachments/assets/0d7d0228-27a7-4b03-a657-5ba7a8933a00)
+
+  - On the web page, click "Download for Windows," if you are using windows system.
+ 
+  - **Run installer**: Locate the downloaded .exe file, double-click to run the installer.
