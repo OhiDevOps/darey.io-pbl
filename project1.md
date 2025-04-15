@@ -64,6 +64,21 @@ making it a top choice among developers.
 
   ![Image](https://github.com/user-attachments/assets/0d7d0228-27a7-4b03-a657-5ba7a8933a00)
 
-  - On the web page, click "Download for Windows," if you are using windows system.
+-  On the web page, click "Download for Windows," if you are using windows system.
  
-  - **Run installer**: Locate the downloaded .exe file, double-click to run the installer.
+ - **Run installer**: Locate the downloaded .exe file, double-click to run the installer.
+
+ - **Wizard**: Click Next through the installation wizard. CLick next to all the remaining prompt
+
+ - **Install**: Lastly, click install to comlete the installation. When installation is complete click FINISH to
+complete the installation.
+
+-  **Launching VScode**: Open from Start Menu or use the desktop shortcut or better still, just type vscode
+on windows app search.
+
+If your installation is successful, it will have the following look after launching: It might be slightly different,
+but does not matter.
+
+![Image](https://github.com/user-attachments/assets/6fcc4454-0362-4f97-af4f-8dd1d0c3365e)
+
+### 2. macOS Instalation:
