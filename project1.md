@@ -130,3 +130,11 @@ windows app search.
 
 If your installation is successful, it will have the following look after launching: It might be slightly different,
 but does not matter.
+
+![Image](https://github.com/user-attachments/assets/05cf7352-1e27-4a1a-9589-c8ad82182e1a)
+
+## Installation with homebrew on macOS
+
+- **Install Homebrow**: Open Terminal, type the following and press "ENTER":
+
+-  ### ' /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh) "'
