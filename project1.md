@@ -137,4 +137,10 @@ but does not matter.
 
 - **Install Homebrow**: Open Terminal, type the following and press "ENTER":
 
--  ### ' /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh) "'
+ ### /bin/bash - /bin/bash -c "$( curl -fsSL https ://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+ 
+ **Note**: If homebrew is already installed, please ignore above step
+
+
+
