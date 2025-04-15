@@ -110,8 +110,23 @@ but does not matter.
 
 **1. Windows Installation**: 
 
-**Download Git**: Go to [Git website](https://git-scm.com/downloads/win) for windows
+- **Download Git**: Go to [Git website](https://git-scm.com/downloads/win) for windows
 
-    - On the web page, Click "Download" to download the Git installer for Windows.
+- On the web page, Click "Download" to download the Git installer for Windows.
 
+![Image](https://github.com/user-attachments/assets/6e1ff7f9-ad30-4e72-a48c-6e2447cd292c)
 
+- **Run Installer**: Locate the downloaded .exe file, Double-click to run the installer.
+
+- **Options to check if prompted**: Use Git from the Windows Command Prompt."
+  
+  'Use the OpenSSLlibrary." "Checkout as-is, commit as-is." "Use Windows' default console window."
+
+- **Install**: Lastly, click install to complete the installation. When installation is complete click FINISH to
+complete the installation.
+
+- **Launch Git**: Open from Start Menu or use the desktop shortcut or better still, just type "git" on
+windows app search.
+
+If your installation is successful, it will have the following look after launching: It might be slightly different,
+but does not matter.
