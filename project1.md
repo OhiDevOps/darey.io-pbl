@@ -93,3 +93,25 @@ On the [download page](https://code.visualstudio.com/Download), since you are us
 
 ![Image](https://github.com/user-attachments/assets/a8e5c769-51ac-4628-b833-58909123c17d)
 
+-   **Run installer**: Locate the downloaded .zip file, Double-click to extract and open the VS Code
+application.
+
+- **Drag to Applications**: Drag the Visual Studio Code icon to the "Applications" folder.
+  
+-  **Launching VScode**: Navigate to the "Applications" folder, double-click on Visual Studio Code to open it.
+
+If your installation is successful, it will have the following look after launching: It might be slightly different,
+
+but does not matter.
+
+![Image](https://github.com/user-attachments/assets/7cdadfd7-10c9-45bb-8f5f-b4da91f7b85c)
+
+## Git 
+
+**1. Windows Installation**: 
+
+**Download Git**: Go to [Git website](https://git-scm.com/downloads/win) for windows
+
+    - On the web page, Click "Download" to download the Git installer for Windows.
+
+
