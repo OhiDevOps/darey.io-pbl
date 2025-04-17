@@ -4,8 +4,6 @@
 
  This project is a demonstration of my understanding of core DevOps concepts, focusing on the initial setup
   
-
-
 and configuration of essential tools within a DevOps environment. It includes step-by-step installation guides
 
 for widely used tools such as Git, Visual Studio Code (VS Code), and VirtualBox, as well as the creation of
@@ -192,10 +190,41 @@ simply because I already have Ubuntu OS in mine, but does not matter.
 ![Image](https://github.com/user-attachments/assets/9fe4f3c1-5f1c-47ea-b233-56ec416daf45)
 
 
-## Ubuntu (Linux Distro) on Virtual box (Windows Host)
+### Ubuntu (Linux Distro) on Virtual box (Windows Host)
 
-- ## Download Ubuntu Desktop ISO file: Go to [Ubuntu official website](https://ubuntu.com/download/desktop)
+- ### Download Ubuntu Desktop ISO file: Go to [Ubuntu official website](https://ubuntu.com/download/desktop)
 
 ![Image](https://github.com/user-attachments/assets/a5dc91fa-92e8-4eac-8a8f-fb3cc42e48d7)
+
+- **Virtual Box:** Launch your already installed virtual box
+
+- **Create a New Virtual Machine:** To create a new VM, click on NEW or Plus symbol at the top center of
+  
+the virtual box window.
+
+
+- **Configure the virtual Machine:** choose Linux as the type, and Ubuntu as the version. Allocate at least
+  
+2GB of RAM for the virtual machine, create a virtual hard disk, choosing either dynamic or fixed size,
+
+"dynamic" recommended.
+
+
+- **Select an installation file:** Choose the ubuntu .iso file that you downloaded from ubuntu website.
+  
+Start the Virtual Machine: Launch the virtual machine and start the Ubuntu installation process.
+
+Install Ubuntu: Follow the on-screen instructions to install Ubuntu, configuring language, keyboard,
+
+user account, etc.
+
+
+- **Complete Installation:** Remove the installation media when prompted, then power off the virtual
+
+machine, and ubuntu will boot to desktop as shown below, then you can enter the login credentials you
+
+created during the installation. ubuntu will boot to desktop as shown below, then you can enter the
+
+login credentials you created during the installation.
 
    
