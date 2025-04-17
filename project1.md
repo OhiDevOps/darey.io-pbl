@@ -2,7 +2,7 @@
  
  ## Introduction
 
- This project is a demonstration of my understanding of core DevOps concepts, focusing on the initial setup
+This project is a demonstration of my understanding of core DevOps concepts, focusing on the initial setup
   
 and configuration of essential tools within a DevOps environment. It includes step-by-step installation guides
 
@@ -17,6 +17,7 @@ links to official sources, reflecting my ability to create secure, streamlined, 
 - **Internet Connection**: Required for accessing cloud services, documentation, and online repositories
 
 - **Computer**: Adequate performance to run virtual machines and containers (minimum 8GB RAM
+  
 recommended), 64 bit Architecture is highly recommended.
 
 # Tools needed to be Installed
@@ -64,7 +65,7 @@ making it a top choice among developers.
 
 -  On the web page, click "Download for Windows," if you are using windows system.
  
- - **Run installer**: Locate the downloaded .exe file, double-click to run the installer.
+  - **Run installer**: Locate the downloaded .exe file, double-click to run the installer.
 
  - **Wizard**: Click Next through the installation wizard. CLick next to all the remaining prompt
 
@@ -363,7 +364,7 @@ need to create a new one.
 
 
 - **Provide account information:** Fill in the necessary account information, including your contact
-- 
+ 
 information and payment details. Note that you'll be required to provide valid credit card information,
 
 even though you won't be charged unless you exceed the free tier limits. You will be require to have a
