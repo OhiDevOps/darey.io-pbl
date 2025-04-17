@@ -142,5 +142,60 @@ but does not matter.
  
  **Note**: If homebrew is already installed, please ignore above step
 
+ - **Git Installation**: In your terminal type the following command and press
+
+   "ENTER"
+
+   **'brew install git'**
+
+   - **Launch Git**: Open Terminal and type git --version and press Enter to verify that Git has been installed.
+  
+If your installation is successful, it will have the following look after launching:
+It might be slightly different, but does not matter.
 
 
+![Image](https://github.com/user-attachments/assets/70985947-ccb2-443d-bbc1-6b5eb82bb629)
+
+### Virtual Box
+
+**1. Windows  Instlation:** 
+
+- **Download Virtual box:** Go to [Oracle virtual box website](https://www.virtualbox.org/)
+
+![Image](https://github.com/user-attachments/assets/1b2b0593-8824-4f95-88b7-05de6afd9edb)
+
+- On the web page, Click "Downloads" and select the Windows host version.
+
+
+- **Run Installer:** Locate the downloaded .exe file, double-click to run the installer..
+
+
+- **Wizard:** Click "Next" through the installation wizard. Click next to all the remaining prompt, leave every
+
+option to "default".
+
+
+- **Install Virtual box:** Lastly, click install to complete the installation. When installation is complete click
+  
+FINISH to complete the installation.
+
+
+- **Lauching Virtual box:** Open from Start Menu or use the desktop shortcut or better still. just type
+
+vscode on windows app search.
+
+
+If your installation is successful, it will have the following look after launching: It might be slightly different
+
+simply because I already have Ubuntu OS in mine, but does not matter.
+
+![Image](https://github.com/user-attachments/assets/9fe4f3c1-5f1c-47ea-b233-56ec416daf45)
+
+
+## Ubuntu (Linux Distro) on Virtual box (Windows Host)
+
+- ## Download Ubuntu Desktop ISO file: Go to [Ubuntu official website](https://ubuntu.com/download/desktop)
+
+![Image](https://github.com/user-attachments/assets/a5dc91fa-92e8-4eac-8a8f-fb3cc42e48d7)
+
+   
