@@ -227,4 +227,201 @@ created during the installation. ubuntu will boot to desktop as shown below, the
 
 login credentials you created during the installation.
 
+![Image](https://github.com/user-attachments/assets/5b11c083-b58e-4901-8e45-bd4d7f3bc2f5)
+
+## Ubuntu (Linux Distro) on Virtual box (Mac Host)
+
+- **Download Ubuntu Desktop ISO file:** Go to [Ubuntu official website](https://ubuntu.com/download/desktop)
+
+  ![Image](https://github.com/user-attachments/assets/824ce060-9261-4645-8e59-e0140a0500a7)
+
+- **Virtual Box:** Launch your already installed virtual box
+
+
+- **Create a New Virtual Machine:** To create a new VM, click on NEW or Plus
+
+symbol at the top left hand side of the virtual box window.
+
+
+- **Configure the virtual Machine:** choose Linux as the type, and Ubuntu as the version. Allocate at least
+
+2GB of RAM for the virtual machine.
+
+
+- **Create a virtual hard disk:** Choose "Create a virtual hard disk now" and click "Create." and choose "VDI
+
+(VirtualBox Disk Image)" and click "Next." Then Choose "Dynamically allocated" and click "Next."
+
+File Location and Size: Set the location and size for the virtual hard disk, ensure sufficient space for the
+
+Ubuntu installation.
+
+
+- **Mount Ubuntu ISO:** With the new virtual machine selected, click on "Settings."Go to "Storage," select
+
+the empty disk under "Controller: IDE and click the disk icon next to "Optical Drive." "Choose a disk file"
+
+and select the downloaded Ubuntu ISO.
+
+
+- **Start the Virtual Machine:** Click "Start" with the virtual machine selected, follow the on-screen
+
+instructions to install Ubuntu.
+
+
+- **Install Ubuntu:** Choose language and click "Install Ubuntu.", Follow the installation wizard, configuring
+
+options such as time zone, keyboard layout, and user account.
+
+
+- **Complete Installation:** Once installation completes, click "Restart Now.", After reboot, you may need to
+
+press Enter to boot from the virtual hard disk. ubuntu will boot to desktop as shown below, then you
+
+can enter thel login credentials you created during the installation. The interface might be slightly
+
+different from this, base on the version you downloaded
+
+![Image](https://github.com/user-attachments/assets/572d2d58-026e-42af-9194-3f7f452d13e2)
+
+
+## Possible Error you may encounter and Link to resolution youtube: 
+
+- **When virtualizaton is not enabled:** [click here]((https://www.youtube.com/watch?v=MOuTxfzCvMY)
+
+- **C++ redistrutable error:** [click here](https://www.youtube.com/watch?v=xKTKgjUHu48&pp=ygU6b3JhY2xlIHZtIHZpcnR1YWwgYm94IDcuMC4xMiBuZWVkcyB0aGUgbWljcm9zb2Z0IHZpcnR1YWwgYw%3D%3D)
+
+
+## Creating Github and AWS Account
+
+Please note that account creation has nothing to do with the type of OS that you use, since you are dealing
+
+with third-party website
+
+
+## Github account
+
+Visit the GitHub Website: Open your web browser and go to [GitHub's website]9https://github.com/)
+
+![Image](https://github.com/user-attachments/assets/b3cb4396-64ed-4576-8286-6dab497b4fe3)
+
+- **Sign Up:** On the GitHub homepage, you will find a "Sign up" button. Click on it.
+
+
+- **Enter Your Information:** Fill out the required information on the Sign up page. This typically includes
+  
+your username, email address, and password. Choose a strong and secure password.
+
+
+- **Verify Your Email:** After entering your information, GitHub will ask you to verify your email address.
+  
+Check your email inbox for a verification message from GitHub and click on the verification link.
+
+Complete the CAPTCHA: GitHub may ask you to complete a CAPTCHA to ensure that you are not a
+
+robot. Follow the instructions to prove you're a human.
+
+
+-**Choose a Plan:** GitHub offers free plans for public repositories and paid plans for private repositories.
+
+Choose the plan that best suits your needs. For beginners, the free plan is usually sufficient.
+
+
+-**Tailor Your Experience (Optional):** GitHub may ask you to answer a few questions to tailor your
+
+experience. You can choose to answer them or skip this step. GitHub may ask you to answer a few
+
+questions to tailor your experience. You can choose to answer them or skip this step.
+
+
+-**Welcome to GitHub:** Once you've completed the above steps, you should be redirected to your new GitHub
+
+account. Congratulations! You now have a GitHub account.
+
+
+- **Explore GitHub:** Take some time to explore the GitHub platform. Familiarize yourself with the interface, and
+
+you can start by creating a new repository if you have a project in mind.
+
+![Image](https://github.com/user-attachments/assets/0b3799e1-a451-4e4c-82bb-6524a07855bb)
+
+
+## Amazon Web Services (AWS) Account
+
+- **Visit the AWS Free Tier page:** Go to the AWS Free Tier page at [AWS Website](https://aws.amazon.com/free/) to learn about the
+
+services available in the free tier and to start the signup process.
+
+![Image](https://github.com/user-attachments/assets/aec539d2-ab5a-45e8-9fa4-6477034c07f3)
+
+- **Click "Create an AWS Account":** On the AWS Free Tier page, click on the "Create an AWS Account" button.
+
+
+Sign in or Create a new Amazon account: If you already have an Amazon account, you can sign in. If not, you'll
+
+need to create a new one.
+
+
+- **Provide account information:** Fill in the necessary account information, including your contact
+- 
+information and payment details. Note that you'll be required to provide valid credit card information,
+
+even though you won't be charged unless you exceed the free tier limits. You will be require to have a
+
+minimum of 1 usd in your card
+
+- **Note:** Please note that if you are from Africa country, virtual dollar cards will serve you better. Most regular
+card will not work
+
+
+- **Verify your identity:** Follow the steps to verify your identity. This may involve receivin a phone call or
+entering a verification code sent to your email or phone.
+
+
+- **Choose a support plan:** AWS offers a free support plan, but you can choose to upgrade to a paid plan
+if you prefer. For the free tier, the basic support plan is usually sufficient.
+
+
+- **Enter payment information:** As part of the account setup, you'll need to enter valid
+
+credit card information. AWS uses this for identity verification and to prevent abuse of the free tier resources.
+
+
+- **Review and confirm:** mReview the information you provided, read the terms and conditions, and
+confirm your agreement.
+
+
+- **Wait for approval:** It might take a short while for your account to be approved. Once I approved, you'll
+receive a confirmation email.
+
+
+- **Access the AWS Management Console:** After receiving confirmation, log in to the AWS Management
+Console using your new account credentials.
+
+
+- **Explore the AWS Free Tier services:** AWS offers a variety of services within the free tier, including EC2
+(Elastic Compute Cloud), S3 (Simple Storage Service), and more. Make sure to explore and understand
+the limitations of each service within the free tier.
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+
    
