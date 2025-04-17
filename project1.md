@@ -403,6 +403,9 @@ Console using your new account credentials.
 (Elastic Compute Cloud), S3 (Simple Storage Service), and more. Make sure to explore and understand
 the limitations of each service within the free tier.
 
+![Image](https://github.com/user-attachments/assets/ef3156a3-c556-441c-9fd6-a4ea792b46a7)
+
+![Image](https://github.com/user-attachments/assets/03169915-d987-4ed8-991a-4a01bee877eb)
 
 
 
